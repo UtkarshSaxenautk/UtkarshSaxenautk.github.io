@@ -18,6 +18,7 @@ body
     text-align: center;
     font-family: cursive;
     font-size: 14px;
+    display:inline-block;
 }
 .menubar ul
 { display: inline-flex;
