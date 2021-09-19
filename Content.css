@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: aqua;
+  }
+
+  .about-section {
+    padding: 20px;
+    text-align: center;
+    background-color:cornsilk;
+    color: rgb(255, 255, 255);
+    color:brown;
+  }
+  .container::after, .row::after {
+    clear: both;
+    display: table;
+  }
+
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  .card {
+     background-color:black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+    color: azure;
+  }
+  .container {
+    padding: 0 16px;
+  }
+
+.column {
+    float: left;
+    width: 50%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+    .column {
+      display: block;
+    
+  }
