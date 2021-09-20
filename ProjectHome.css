@@ -1,3 +1,7 @@
+body{
+    margin:0;
+}
+
 .topbar {
     background-color:lightcyan;
     padding: 28px;
