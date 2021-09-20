@@ -1,15 +1,19 @@
+h1 {
+  background-color: #c8c8c8;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background-color: aqua;
+    background-color:black;
   }
 
   .about-section {
     padding: 20px;
     text-align: center;
-    background-color:cornsilk;
-    color: rgb(255, 255, 255);
-    color:brown;
+    background-color: #fff;
+    
+    color:rgba(22, 21, 21, 0.781);
   }
   .container::after, .row::after {
     clear: both;
@@ -28,6 +32,12 @@ body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
     color: azure;
+    border: 5px solid #2b6777 ;
+    border-style:groove;
+    border-bottom-color: aquamarine;
+    border-top-color: aquamarine;
+    border-left-color: gainsboro;
+    border-right-color:gainsboro;
   }
   .container {
     padding: 0 16px;
