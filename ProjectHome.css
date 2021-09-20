@@ -9,7 +9,7 @@
 }
 #home {
     font-size: 24px;
-    padding: 28px;
+    padding: 24px;
     font-weight: 100;
     font-family: cursive;
     
@@ -34,9 +34,9 @@
     display: block;
     color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 12px;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 22px;
   }
   
   /* Change the color of links on hover */
